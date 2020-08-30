@@ -180,7 +180,7 @@ img::-moz-selection {
 position: relative;
 height: 500px;
 overflow: hidden;
-background: url(img/header-bg.jpg) no-repeat center;
+background: url(header-bg.jpg) no-repeat center;
 background-size: cover;
 
 }
