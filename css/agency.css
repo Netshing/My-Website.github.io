@@ -176,14 +176,12 @@ img::-moz-selection {
 
 }
 header.masthead {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("img/VX9ISz.jpg");
-  height: 50%;
-  background-position: center;
+  text-align: center;
   background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-position: center center;
   background-size: cover;
-  position: relative;
-
-  }
+}
 
 
 
