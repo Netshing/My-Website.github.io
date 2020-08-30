@@ -186,7 +186,7 @@ img::-moz-selection {
 .hero-img {
   position: relative;
   overflow: hidden;
-  background-image: url('..img/header.jpg');
+  background-image: url('img/header.jpg');
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
