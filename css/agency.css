@@ -175,11 +175,14 @@ img::-moz-selection {
 }
 
 }
-header.masthead {
 
- max-width: 100%; 
+@media only screen and (max-width: 800px) {
+.masthead {
 
-    height: auto;
+ 
+ width: 100%;
+            height: auto;
+            background-size: 100% auto !important;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -187,8 +190,6 @@ header.masthead {
   background-attachment: scroll;
 
 }
-
-
 
 header.masthead .intro-text {
   padding-top: 50px;
