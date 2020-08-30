@@ -175,10 +175,13 @@ img::-moz-selection {
 }
 
 }
-.masthead {
+.hero-image {
 
-width: 100%;
- height: auto;
+position: relative;
+height: 500px;
+overflow: hidden;
+background: url(img/header-bg.jpg) no-repeat center;
+background-size: cover;
 
 }
 
