@@ -180,13 +180,13 @@ img::-moz-selection {
   position: relative;
   overflow: hidden;
   text-align: center;
-  background-image: url('img/header.jpg');
 }
 
 
 .hero-img {
   position: relative;
   overflow: hidden;
+  background-image: url('img/header.jpg');
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
