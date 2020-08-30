@@ -176,13 +176,15 @@ img::-moz-selection {
 
 }
 header.masthead {
-  text-align: center;
+
+ 
+
+    height: 50%;
+  background-position: center;
   background-repeat: no-repeat;
-  background-attachment: scroll;
-  background-position: center center;
   background-size: cover;
   position: relative;
-  left: 10px;
+  background-attachment: scroll;
 
 }
 
