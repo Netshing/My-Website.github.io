@@ -270,7 +270,14 @@ img {
 .value-100 { width: 100%; }
 
 
-
+.hero-image {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../img/header-bg.jpg");
+  height: 50%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
 
 </style>
 
@@ -316,7 +323,14 @@ img {
   </nav>
 
   <!-- Header -->
-  
+  <header class="hero-image">
+    <div class="container">
+      <div class="intro-text">
+        <div class="intro-heading" style=" "></div>
+        <div class="intro-lead-in text-uppercase" style=""></div>
+      </div>
+    </div>
+  </header>
 
    <!-- About -->
   <section class="page-section" id="about">
