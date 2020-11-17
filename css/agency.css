@@ -436,6 +436,8 @@ header.masthead {
 }
 
 header.masthead .intro-text {
+  position: absolute;
+  top: 50px;
   padding-top: 160px;
   padding-bottom: 100px;
 }
