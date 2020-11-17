@@ -433,11 +433,13 @@ header.masthead {
   background-attachment: scroll;
   background-position: center center;
   background-size: cover;
+  position: relative;
+  margin-top: 10px;
 }
 
 header.masthead .intro-text {
 
-  padding-top: 60px;
+  padding-top: 150px;
   padding-bottom: 100px;
 }
 
